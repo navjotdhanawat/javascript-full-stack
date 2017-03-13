@@ -1,0 +1,16 @@
+{
+  "name": "javascript-full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "number-to-words": "^1.2.3"
+  }
+}
